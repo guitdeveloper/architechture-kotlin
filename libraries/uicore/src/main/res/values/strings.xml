@@ -1,0 +1,7 @@
+<resources>
+    <string name="message_list_is_empty">Lista vazia</string>
+    <string name="message_user_not_permission">Usuário sem permissão para a operação</string>
+    <string name="message_user_not_registered">Usuário não cadastrado</string>
+    <string name="message_user_password_invalid">Senha incorreta</string>
+    <string name="message_generic_error">Ocorreu um erro ao executar a operação</string>
+</resources>

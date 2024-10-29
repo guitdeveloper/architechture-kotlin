@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <dimen name="auth0_logo_side">80dp</dimen>
+    <dimen name="auth0_progress_dots_width">50dp</dimen>
+    <dimen name="auth0_progress_dots_height">40dp</dimen>
+    <dimen name="auth0_logo_tenant_width">60dp</dimen>
+    <dimen name="auth0_logo_tenant_height">50dp</dimen>
+</resources>
